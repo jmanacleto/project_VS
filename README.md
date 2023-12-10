@@ -1,2 +1,3 @@
 # project_VS
-Este código Python utiliza pandas para manipular dados do Auxílio Emergencial, corrigindo formatos e agregando informações por código de município. O resultado é salvo em um novo arquivo CSV para análises posteriores.
+
+Este código em Python realiza a leitura de um arquivo CSV contendo dados do Auxílio Emergencial. Após a leitura, são realizadas manipulações nos dados, incluindo a correção do formato numérico e o agrupamento por código do município SIAFI. O resultado é salvo em um novo arquivo CSV, onde as colunas representam o número de linhas e o total repassado para cada código de município em novembro de 2020. O código demonstra habilidades em manipulação de dados usando pandas, tratamento de formatos e operações de agregação. Recomenda-se adicionar documentação ao repositório, incluindo um README explicativo.
